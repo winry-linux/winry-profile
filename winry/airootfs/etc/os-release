@@ -1,0 +1,9 @@
+NAME="Winry Linux"
+PRETTY_NAME="Winry Linux"
+ID=winry
+ID_LIKE=winrylinux
+ANSI_COLOR="0;36"
+HOME_URL="https://www.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://bugs.archlinux.org/"
+ 

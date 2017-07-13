@@ -122,9 +122,12 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 okular
+papirus-dark-plasma-theme-git
+papirus-icon-theme
 phonon-qt5-gstreamer
 plasma-nm
 spectacle
+winry-themes
 
 
 #Xorg
@@ -146,7 +149,6 @@ xorg-apps
 xterm
 
 #Winry Packages
-pinako
 winry-wallpapers
 winry-keyring
 winry-mirrorlist
